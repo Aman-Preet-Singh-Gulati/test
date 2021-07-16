@@ -13,6 +13,9 @@ Harry :  Hey !! Would you like to try my invisibility cloak ??
     """)
 
 
+print("Hello, testing")
+
+
 cap = cv2.VideoCapture(0)
 time.sleep(3)
 background=0
